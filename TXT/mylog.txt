@@ -5,4 +5,4 @@ ZCZC W00 10 L03 GitHub Related
 ZCZC W00 40 L30 Udacity: study, etc.
 ZCZC W00 30 L04 GitHub Pages related
 ZCZC W00 200 L02 ZOOM meetings related
-ZCZC Woo 120 L06 References/Books/Documents/GSGS related
+ZCZC W00 120 L06 References/Books/Documents/GSGS related
