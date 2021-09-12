@@ -11,8 +11,8 @@ ZCZC W01 70 L12 Assignment #02: Installing Debian Guest from Scratch
 ZCZC W01 50 L13 Assignment #03: GSGS and Read
 ZCZC W01 77 L14 Assignment #04: Dress Up Your Virtual Guest
 ZCZC W01 40 L15 Assignment #05: SSH Keys and Git Cloning
-ZCZC W01 7  L17 Assignment #07: Update mylog.txt
+ZCZC W01 8  L17 Assignment #07: Update mylog.txt
 ZCZC W01 65 L18 Assignment #08: bash, regex, sed, and awk
 ZCZC W01 120 L19 Assignment #09: OSC 10
-
+ZCZC W01 35 L6 Assignment #06: Dress Up Your GitHub Page
 

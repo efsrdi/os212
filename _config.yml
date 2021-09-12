@@ -23,11 +23,11 @@ navbarlinks:
 - navbar:    "About"
   link:      "/ABOUT/"
 - navbar:    "GitHub Page"
-  link:      "https://template.vlsm.org/"
-title:       "GitHub Page Template"
+  link:      "https://efsrdi.github.io/os212/"
+title:       "OS212 efsrdi GitHub Page"
 lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "efsrdi"
+address:     ""
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
@@ -42,7 +42,7 @@ plugins:
 - jekyll-seo-tag
 google_analytics: "UA-89852122-15"
 
-urlweb:           "https://template.vlsm.org/"
+urlweb:           "https://efsrdi.github.io/os212/"
 urlcontact:       "TBA"
 urlgithub:        "https://github.com/efsrdi/os212"
 

@@ -8,7 +8,7 @@ You can download the source either as a
 [TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
 File [LISTINGS]({{ site.baseurl }}/000.html) are also available.
 
-I am {{ site.author }}, {{ site.address }}
+I am {{ site.author }}.
 
 <br>
 ## Table Example
@@ -16,13 +16,6 @@ I am {{ site.author }}, {{ site.address }}
 | [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) |
 | [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) | [mylog]({{ site.baseurl }}/TXT/mylog.txt) |
 | [GitHub]({{ site.urlgithub }}) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) | 
-
-<br>
-## More Links
-
-* [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)
-* [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)
-* [This is how me do it records](https://doit.vlsm.org/)
 
 <br>
 ## Source Code
@@ -35,7 +28,5 @@ int main(void) {
 }
 
 ```
-
 <br>
-Qapla!
 
