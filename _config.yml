@@ -1,8 +1,7 @@
 version:     "0018b--03-Aug-2021"
 copyright:   "2021-2021"
 description:
-  This is a
-  GitHub Page Template
+  OS 212 efsrdi
 disclaimer:
   I have spoken.
 keywords:    "jekyll, testing"
@@ -13,12 +12,12 @@ navbarlinks:
   link:      "/LINKS/"
 - navbar:    "Tips"
   link:      "/TIPS/"
-- navbar:    "Zip File"
-  link:      "/template.zip"
+- navbar:    "mylog"
+  link:      "/TXT/mylog.txt"
 - navbar:    "TarBall"
   link:      "/template.tar.bz2"
 - navbar:    "GitHub"
-  link:      "https://github.com/ThisIsHowMeDoIt/template/"
+  link:      "https://github.com/efsrdi/os212"
 - navbar:    "Listing"
   link:      "/000.html"
 - navbar:    "About"
@@ -45,6 +44,6 @@ google_analytics: "UA-89852122-15"
 
 urlweb:           "https://template.vlsm.org/"
 urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
+urlgithub:        "https://github.com/efsrdi/os212"
 
 
