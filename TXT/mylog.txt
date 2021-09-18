@@ -20,4 +20,7 @@ ZCZC W02 10 L15 Assignment #05: List of all GnuPG Keys
 ZCZC W02 7 L16 Assignment #06: Importing ospubkey.txt Key from https://osp4diss.vlsm.org/W02-02.html
 ZCZC W02 5 L17 Assignment #07: Signing the Operating System public key
 ZCZC W02 5 L18 Assignment #08: Export YOUR PUBLIC KEY to repo file "TXT/mypubkey.txt"
-ZCZC W02 4 L09 Assignment in General: Update mylog.txt
+ZCZC W02 5 L09 Assignment in General: Update mylog.txt
+ZCZC W02 5 L20 Assignment #10: Review peer links
+ZCZC W02 10 L09 Assignment in General: Write a simple "myscript.sh" script to generate SHA256SUM and SHA256SUM.asc
+ZCZC W02 100 L02 ZOOM meetings related: Pertemuan sinkron OS
