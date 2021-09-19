@@ -14,3 +14,10 @@ I find it useful when I encountered problems on SSH like "Connection Refused" er
 Although the tips there may not provide absolute solutions due to the fact that there are many possibilites that can caused an SSH "Connection Refused" error.
 But I think it still can provide some knowledge on how to tackle problem like this.
 
+3. [Learn C - Free Interactive C Tutorial](https://www.learn-c.org/)<br>
+I've learned basics of C with this page. It is a very useful page for those who wish to start
+studying C. It is interactive and it covers all of the basics about C.
+
+4. [Vim Cheat Sheet](https://vim.rtorr.com/)<br>
+I used this page as my vim cheat sheet everytime I'm using Vim. I think it is useful for those who are in a
+hurry since this page only consists of the commands and their explanation.
