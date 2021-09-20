@@ -28,3 +28,7 @@ ZCZC W02 90 L11 Assignment #01: Read OSC10 chapter 16 + chapter 17
 ZCZC W02 60 L12 Assignment #02: Try demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
 ZCZC W02 300 L13 Assignment #03: Watch: Cyber Security Introduction part 1 and the beginning of part 2 
 ZCZC W02 20 L19 Assignment #09: Update my links
+ZCZC W03 13 L14 Assignment #04: Check if my ".bash_aliases" file is up-todate.
+ZCZC W03 45 L15 Assignment #05: Add or Create an Extra Virtual Disk
+ZCZC W03 10 L17 Assignment #07: Review peer links
+ZCZC W03 3 L18 Assignment #08: Update mylog.txt
