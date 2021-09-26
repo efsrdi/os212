@@ -31,4 +31,7 @@ ZCZC W02 20 L19 Assignment #09: Update my links
 ZCZC W03 13 L14 Assignment #04: Check if my ".bash_aliases" file is up-todate.
 ZCZC W03 45 L15 Assignment #05: Add or Create an Extra Virtual Disk
 ZCZC W03 10 L17 Assignment #07: Review peer links
-ZCZC W03 3 L18 Assignment #08: Update mylog.txt
+ZCZC W03 5 L18 Assignment #08: Update mylog.txt
+ZCZC W03 120 L11 Assignment #01: Read OSC10 chapter 13 + chapter 14 + chapter 15
+ZCZC W03 90 L12 Assignment #02: Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
+ZCZC W03 70 L13 Assignment #03: Try Previous MidTerm Problems (https://rms46.vlsm.org/2/198.pdf). 
