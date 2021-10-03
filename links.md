@@ -38,3 +38,19 @@ FUSE is and how it works using a diagram.
 8. [Linux File Hierarchy Structure - GeeksforGeeks](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
 This page explains Linux File Hierarchy Structure or the Filesystem Hierarchy Standard(FHS). The reason I recommended
 this page is because this page also gives the explanation about FHS in a diagram.
+
+9. [Memory in C - The Stack, The Heap, and Static](https://craftofcoding.wordpress.com/2015/12/07/memory-in-c-the-stack-the-heap-and-static/)<br>
+This page let you understand "what goes where" in C. The reason I recommend this page is because I use this page to understand where do variables
+get put inside the memory in C program.
+
+10. [Memory Layout of C programs](https://www.geeksforgeeks.org/memory-layout-of-c-program/)<br>
+Like the page I recommend above this page explain the memory layout of C program, the difference is, in my opinion, this page also explain it in
+a more general way. So I recommend this page because it has a brief and concise complete information about the memory layout in C program.
+
+11. [C-Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
+This page gives a brief explanation about what pointer is and also explain how to use it with example. I recommend it because of the I think this page
+explain the concept of pointers in a complete but brief way.
+
+12. [C Struct](https://www.programiz.com/c-programming/c-structures)<br>
+This page explain about the concept of struct and how to use it with example in both C and C++. I recommend this page because I can also learn about C++
+at the same time.
