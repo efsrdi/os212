@@ -4,18 +4,14 @@ permalink: /TIPS/
 
 # TIPS
 
+1. [One](https://en.wikipedia.org/wiki/1)<br>
+Remember to always read the intructions for each weekly assignments carefully, then you'll be fine.
+
+2. [Two](https://en.wikipedia.org/wiki/2)<br>
+Don't be a deadliner.
+
+3. [Three](https://en.wikipedia.org/wiki/3)<br>
+Always try the demos every week, it's fun and it's also open more possibility for you to get full score for each weekly quiz.
+
 4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
-
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
-
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
-
+If you get tired reading the book, you can always try to read the briefer version of the concept on the internet. But make sure to go back to the OSC book if you have time.

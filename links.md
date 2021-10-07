@@ -54,3 +54,15 @@ explain the concept of pointers in a complete but brief way.
 12. [C Struct](https://www.programiz.com/c-programming/c-structures)<br>
 This page explain about the concept of struct and how to use it with example in both C and C++. I recommend this page because I can also learn about C++
 at the same time.
+
+13. [top command in Linux with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/top-command-in-linux-with-examples/)<br>
+This page consist brief explanation of what top command is use for several examples on how to use this. I recommend this page because I use this page to get a basic idea
+on what top command is and how to use it.
+
+14. [The Linux Command Handbook - freeCodeCamp](https://www.freecodecamp.org/news/the-linux-commands-handbook/)<br>
+This page is brief version of handbook that cover some Bash commands to get you'll need to get comfortable with Linux. I recommend this page for those who want to
+learn more of Bash commands in Linux and those who love using Command-line interface.
+
+15. [Virtual Memory in Operating System - GeekforGeeks](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This page cover important but briefer concepts of virtual memory similar to OSC10 Chapter 10. The reason I recommend this page for those who want to understand
+the basic concept of virtual memory quickly.
