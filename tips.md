@@ -15,3 +15,7 @@ Always try the demos every week, it's fun and it's also open more possibility fo
 
 4. [Four](https://en.wikipedia.org/wiki/4)<br>
 If you get tired reading the book, you can always try to read the briefer version of the concept on the internet. But make sure to go back to the OSC book if you have time.
+
+5. [Five](https://en.wikipedia.org/wiki/5)<br>
+If you ever feel like you're to tired to do the assignment, just keep this in mind "It'll be fun and it'll be done before you realized it". Always work for me.
+Or you can also try to do it during OS class.
