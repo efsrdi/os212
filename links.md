@@ -66,3 +66,12 @@ learn more of Bash commands in Linux and those who love using Command-line inter
 15. [Virtual Memory in Operating System - GeekforGeeks](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 This page cover important but briefer concepts of virtual memory similar to OSC10 Chapter 10. The reason I recommend this page for those who want to understand
 the basic concept of virtual memory quickly.
+
+16. [Fork() in C Programming Language - Section.io](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+This page help me understand what and how to use fork() in C. The reason I recommend this is because it explain the what fork() is and how to use it in a simple and graphical way with examples.
+
+17. [Process Management in Operating System: PCB in OS - Guru99](https://www.guru99.com/process-management-pcb.html)<br>
+This page help me understand the process concept of process management in operating system. I recommend this because of the simple and brief explanation it has on this topic.
+
+18. [Inter-process communication (IPC) & IPC types in OS](https://iq.opengenus.org/interprocess-communication-and-types-in-os/)<br>
+This page help me understand what IPC is and how many type of IPC are there. I recommend this page because it is much briefer and more easy to understand.
