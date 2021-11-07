@@ -19,3 +19,9 @@ If you get tired reading the book, you can always try to read the briefer versio
 5. [Five](https://en.wikipedia.org/wiki/5)<br>
 If you ever feel like you're to tired to do the assignment, just keep this in mind "It'll be fun and it'll be done before you realized it". Always work for me.
 Or you can also try to do it during OS class.
+
+6. [Six](https://en.wikipedia.org/wiki/6)<br>
+It's okay to take a break once in a while. Just remember to get back to your work after you feel okay.
+
+7. [Seven](https://en.wikipedia.org/wiki/7)<br>
+Try to familiarize yourself with C. It really help me understand the demos each week.

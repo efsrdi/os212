@@ -75,3 +75,9 @@ This page help me understand the process concept of process management in operat
 
 18. [Inter-process communication (IPC) & IPC types in OS](https://iq.opengenus.org/interprocess-communication-and-types-in-os/)<br>
 This page help me understand what IPC is and how many type of IPC are there. I recommend this page because it is much briefer and more easy to understand.
+
+19. [Multithreading in C - GeekforGeeks](https://www.geeksforgeeks.org/multithreading-c-2/)<br>
+This page help me understand the demos of this week. I recommend this because it helped me.
+
+20. [How to use POSIX semaphores in C language - GeeksforGeeks](https://www.geeksforgeeks.org/use-posix-semaphores-c/)<br>
+This page teach me how to synchronize and multithread in C. It helped me understand how the demos of this week works.
