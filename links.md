@@ -81,3 +81,6 @@ This page help me understand the demos of this week. I recommend this because it
 
 20. [How to use POSIX semaphores in C language - GeeksforGeeks](https://www.geeksforgeeks.org/use-posix-semaphores-c/)<br>
 This page teach me how to synchronize and multithread in C. It helped me understand how the demos of this week works.
+
+21. [How to build LFS 10.0 - Part 4: Chapter 5 - Compiling a Cross-Toolchain](https://www.youtube.com/watch?v=-7tVFyXoNVs)<br>
+This video is a demo on how to complete LFS chapter 5. It help me complete assignment #5 of week 08.
