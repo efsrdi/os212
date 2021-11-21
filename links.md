@@ -84,3 +84,6 @@ This page teach me how to synchronize and multithread in C. It helped me underst
 
 21. [How to build LFS 10.0 - Part 4: Chapter 5 - Compiling a Cross-Toolchain](https://www.youtube.com/watch?v=-7tVFyXoNVs)<br>
 This video is a demo on how to complete LFS chapter 5. It help me complete assignment #5 of week 08.
+
+22. [Disk Scheduling Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
+Contain bried but useful explanation on disk scheduling algorithms. I recommend this because i'm having a hard time to understand it with textbooks and this helped me.
