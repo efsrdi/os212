@@ -87,3 +87,9 @@ This video is a demo on how to complete LFS chapter 5. It help me complete assig
 
 22. [Disk Scheduling Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
 Contain bried but useful explanation on disk scheduling algorithms. I recommend this because i'm having a hard time to understand it with textbooks and this helped me.
+
+23. [Kernel I/O Subsystem in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/kernel-i-o-subsystem-in-operating-system/)<br>
+It contains a brief explanation of kernel I/O subsystem. This page help me understand the concept in big picture before I started to learn the details using the textbook.
+
+24. [Transforming I/O Requests to Hardware Operations](http://www.faadooengineers.com/online-study/post/ece/operating-systems/1172/transforming-i-o-requests-to-hardware-operations)<br>
+Contains brief explanation on transforming I/O request to Hardware Operations topic. I use this to understand that topic quickly.
